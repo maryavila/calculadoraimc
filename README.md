@@ -4,7 +4,7 @@ Este é um programa simples em Python que calcula o IMC (Índice de Massa Corpor
 
 ## ˙✧˖°📷 ༘ ⋆｡˚ Screenshots
 
-![IMC](exemplo.png)
+![IMC](imc.png)
 
 ## ‧₊ ᵎᵎ⋅ ˚✮📌 O que é IMC?
 
